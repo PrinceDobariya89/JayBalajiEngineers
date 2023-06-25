@@ -375,6 +375,13 @@ section {
   margin-bottom: 30px;
 }
 
+.product p{
+  margin: 10px 0 0 0;
+  font-size: 20px;
+  color: #1c698c;
+ pfont-family: "Dosis",sans-serif;
+}
+
 .product .product-wrap {
   transition: 0.3s;
   position: relative;
